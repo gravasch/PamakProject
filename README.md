@@ -24,7 +24,7 @@ Forum - blog that supports register login &amp; post for users and a to-do list 
 
 Requirements
 
-''' pip install -r requirements.txt '''
+ 	''' pip install -r requirements.txt '''
 
 to install every package required for this project.
 
@@ -32,6 +32,6 @@ Using it
 
 Navigate to root folder and run
 
-''' python manage.py runserver '''
+ 	''' python manage.py runserver '''
 
 Navigate to 127.0.0.1:8000 on your browser to visit the PamakProject!
