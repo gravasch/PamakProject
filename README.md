@@ -28,6 +28,12 @@ Requirements
 
 to install every package required for this project.
 
+Django==2.1.7
+django-crispy-forms==1.7.2
+django-tinymce==2.8.0
+Pillow==5.4.1
+pytz==2018.9
+
 Using it
 
 Navigate to root folder and run
